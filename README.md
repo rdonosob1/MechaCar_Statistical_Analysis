@@ -57,7 +57,7 @@ In this section, we need to compare the MechaCar performance vs the other compet
    - The data that is needed to run the statistical test, will be fuel efficiency data in city and in highways from both MechaCar and other manufacturers.
    - The characteristics of the information should be as follows:
 
-    - The dependent variable is numerical and continuous, and it is considered to be normally distributed.
-    - The independent variables needs to be categorical.
-    - The variance among each group should be very similar.
+       - The dependent variable is numerical and continuous, and it is considered to be normally distributed.
+       - The independent variables needs to be categorical.
+       - The variance among each group should be very similar.
 
